@@ -46,38 +46,6 @@
 </div>
 </details>
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/adhikarisushant" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=adhikarisushant&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://devsushant.netlify.app/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdevsushant46.netlify.app" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/adhikarisushant/adhikarisushant/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/adhikarisushant/adhikarisushant/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/adhikarisushant" target="blank"><img align="center" 
-     src="https://github.com/adhikarisushant/adhikarisushant/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/adhikarisushant" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/adhikarisushant/adhikarisushant?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/adhikarisushant"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
   
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
