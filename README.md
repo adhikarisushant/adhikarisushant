@@ -3,7 +3,7 @@
   
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/adhikarisushant/adhikarisushant/blob/main/resources/img/waving.gif">, I'm Sushant</h1>
-<h4 align="center">just a freelance developer, see my <a href="https://github.com/adhikarisushant/adhikarisushant/blob/main/assets/sushant-adhikari-resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">Fullstack Software Developer, see my <a href="https://github.com/adhikarisushant/adhikarisushant/blob/main/assets/sushant-adhikari-resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
