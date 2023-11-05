@@ -87,7 +87,7 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/adhikarisushant/github-readme-activity-graph">
   <img alt="Sushant's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=adhikarisushant&theme=github-compact&hide_border=true" /></a>
 <br/>
   </samp>
